@@ -1,14 +1,13 @@
-# PetStore API Automation
+# api-automation-petstore-swagger 🐾
 
-👉 [Click here to view test-report.html](https://clashergeek77.github.io/ClasherGeek77/test-report.html)
-
+[![Petstore CI](https://github.com/ClasherGeek77/api-automation-petstore-swagger/actions/workflows/petstore-ci.yml/badge.svg)](https://github.com/ClasherGeek77/api-automation-petstore-swagger/actions/workflows/petstore-ci.yml)
 
 ## 🧪 Tech Stack
 
 - Python 3.9
 - Pytest
 - Requests
-- Pytest-HTML
+- **Allure Reporting** (Replaced Pytest-HTML for enterprise-grade reporting)
 - Flaky (for retry on unstable endpoints)
 - Built-in logging via `pytest.ini`
 
