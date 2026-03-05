@@ -1,3 +1,5 @@
+[![CI](https://github.com/ClasherGeek77/api-automation-petstore-swagger/actions/workflows/pytest-ci.yml/badge.svg)](https://github.com/ClasherGeek77/api-automation-petstore-swagger/actions/workflows/pytest-ci.yml)
+
 # Petstore API Automation 🐾 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
