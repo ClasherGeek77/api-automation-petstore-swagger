@@ -1,7 +1,7 @@
 [project]
 name = "petstore-api-framework"
 version = "0.1.0"
-description = "Principal-Grade Petstore API Automation Boilerplate"
+description = "Petstore API Automation Boilerplate"
 authors = [
     {name = "Antigravity",email = "antigravity@google.com"}
 ]
