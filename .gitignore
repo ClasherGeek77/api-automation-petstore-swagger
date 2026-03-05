@@ -1,1 +1,21 @@
-__pycache__
+# Python / Pytest
+__pycache__/
+.pytest_cache/
+venv/
+env/
+.env
+*.py[cod]
+*$py.class
+
+# Reports
+test-report.html
+allure-results/
+allure-report/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
